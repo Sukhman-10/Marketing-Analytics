@@ -4,7 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Marketing%20Analytics-purple)
 ![Data](https://img.shields.io/badge/Data-Performance%20Metrics%20%7C%20Retention%20%7C%20Funnel-red)
 
-#⭐ Marketing Analytics Performance Evaluation — Case Study
+# ⭐ Marketing Analytics Performance Evaluation — Case Study
 Overview
 
 This project delivers a full-funnel performance comparison of major paid and organic marketing channels, including AdWords, Facebook Ads, LinkedIn Ads, Spotify Ads, Facebook Organic, and LinkedIn Organic. The analysis evaluates each platform’s ability to generate clicks, leads, conversions, revenue, and long-term customer value.
