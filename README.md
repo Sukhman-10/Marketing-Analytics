@@ -1,5 +1,5 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Tools](https://img.shields.io/badge/Tools-Excel%20Analytics%20%7C%20Dashboards-blue)
+![Tools](https://img.shields.io/badge/Tools-Excel%20Analytics%20%7C%20Tableau-blue)
 ![Models](https://img.shields.io/badge/Models-ROI%20%7C%20CAC%20%7C%20CLV%20%7C%20CVR-orange)
 ![Category](https://img.shields.io/badge/Category-Marketing%20Analytics-purple)
 ![Data](https://img.shields.io/badge/Data-Performance%20Metrics%20%7C%20Retention%20%7C%20Funnel-red)
