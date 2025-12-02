@@ -44,7 +44,7 @@ Collected cross-channel performance data across:
 
 - Dashboard visualizations (charts, trend lines, KPI tables)
 
-###3. Performance Comparison
+### 3. Performance Comparison
 
 - Benchmarked each platform on:
 
