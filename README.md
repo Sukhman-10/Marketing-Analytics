@@ -90,7 +90,3 @@ Channel Performance Highlights
 - How to structure the next 12 months of marketing with predictable ROI
 
 This analysis empowers the client to make smarter, more profitable marketing decisions with confidence.
-
-## 💡 4. GitHub Repo Tagline (Short & Professional)
-
-“Full-funnel marketing analytics project comparing paid & organic channels using Excel-based ROI, CAC, CLV & conversion modeling.”
